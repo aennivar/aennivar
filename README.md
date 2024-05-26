@@ -2,7 +2,8 @@
 
 - I'm an undergraduate student in Animation Cinema and Digital Arts.
 - My interests range from game development to new media and extended reality.
-- Currently hasvesting the skills to become a game developer (learning Python and GDScript).
+- Currently studying HTML, CSS and JavaScript
+- Hasvesting the skills to become a game developer (learning Python and GDScript).
 
   See you around!
 
