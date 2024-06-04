@@ -1,8 +1,8 @@
 ### Hey there!
 
-- I'm an undergraduate student in Animation Cinema and Digital Arts.
-- My interests range from game development to new media and extended reality.
-- Currently studying HTML, CSS and JavaScript at Proz Educação Profissional
+- I'm an undergraduate student in Animation Cinema and Digital Arts;
+- My interests range from game development to new media and extended reality;
+- Currently studying HTML, CSS and JavaScript at Proz Educação Profissional;
 - Hasvesting the skills to become a game developer (learning Python and GDScript).
 
   See you around!
